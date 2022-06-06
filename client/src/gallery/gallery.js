@@ -9,7 +9,7 @@ function gallery() {
             <Gallery1 />
             <Gallery2 />
             <Gallery3 />
-
+            
         </div>
     )
 }

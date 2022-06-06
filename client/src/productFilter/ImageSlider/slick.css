@@ -1,0 +1,17 @@
+.slick{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 130px;
+  width: 100%;
+  
+}
+.slick-slide img{
+  width: 100%;
+}
+.slick-dots li.slick-active button:before {
+  color: #FF4E78;
+}
+
+.slick-prev:before {
+  content:''
+}

@@ -1,0 +1,14 @@
+.Footer{
+    font-size: 11px;
+    font-weight:bold
+}
+
+.lists{
+    font-weight: lighter;
+    color: grey;
+    font-size: 13px;
+    text-align:justify;
+    margin-left:35px;
+    margin-top: 20px;
+}
+

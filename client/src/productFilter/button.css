@@ -1,0 +1,12 @@
+.style:hover{
+    border-color: black;
+}
+
+.style{
+    border-color: #D4D5D9;
+}
+
+.product:hover{
+    box-shadow: 5px 5px #D4D5D92E;
+    cursor: pointer
+}
